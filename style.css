@@ -29,6 +29,7 @@
 }
 .container{
     background: black;
+    /* background-color: #0c1022; */
     height: 70vh;
     width: 25vw;
     padding: 20px;
@@ -40,5 +41,6 @@
 body{
     display: flex;
     justify-content: center;
-    background-color: rgb(224, 246, 181);
+    /* background-color: rgb(224, 246, 181); */
+    background-color: #0c1022;
 }
