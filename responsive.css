@@ -7,7 +7,7 @@
     display: flex;
     justify-content: center;
     border-radius: 15px;
-    border: 5px solid rgb(248, 201, 165);
+    border: 5px solid rgb(139, 139, 225);
     }
     .row input{
         font-size: 23px;
@@ -30,7 +30,7 @@
         background-color: rgb(145, 243, 76);
     }
     body{
-        background-color: rgb(153, 147, 237);
+        background-color: #0c1022;
     }
 
     .text-center{
@@ -61,12 +61,12 @@
     .container{
     background: black;
     height: 40vh;
-    width: 70vw;
+    width: 60vw;
     padding: 8px;
     display: flex;
     justify-content: center;
     border-radius: 10px;
-    border: 5px solid rgb(248, 201, 165);
+    border: 5px solid rgb(139, 139, 225);
     }
     .row input{
         font-size: 20px;
@@ -86,11 +86,11 @@
         border: none;
         border-radius: 3px;
         cursor: pointer;
-        background-color: rgb(145, 243, 76);
+        background-color: rgb(241, 238, 56);
         
     }
     body{
-        background-color: rgb(153, 147, 237);
+        background-color: #0c1022;
     }
 
     .text-center{
@@ -126,7 +126,7 @@
     display: flex;
     justify-content: center;
     border-radius: 10px;
-    border: 5px solid rgb(248, 201, 165);
+    border: 5px solid rgb(139, 139, 225);
     }
     .row input{
         font-size: 20px;
@@ -140,8 +140,8 @@
         width: 200px;
     }
     .button{
-        height: 35px;
-        width: 35px;
+        height: 37px;
+        width: 37px;
         margin: 0px 1px;
         border: none;
         border-radius: 3px;
@@ -150,7 +150,7 @@
         
     }
     body{
-        background-color: rgb(247, 204, 242);
+        background-color: #0c1022;
     }
 
     .text-center{
